@@ -7,7 +7,7 @@ footer {
 	margin: 5px auto;
 }
 
-.email, .phone {
+.email, .fa-whatsapp-square {
   font-size: 50px;
   margin-right: 1rem;
 }
@@ -16,6 +16,6 @@ footer {
   color: #D44337;
 }
 
-.phone {
+.fa-whatsapp-square {
   color: #54AD26;
 }
