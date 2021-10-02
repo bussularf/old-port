@@ -1,0 +1,26 @@
+/* import */ 
+@import url(banner.css);
+@import url(button.css);
+@import url(about.css);
+@import url(education.css);
+@import url(skills.css);
+@import url(projects.css);
+@import url(contact.css);
+@import url(footer.css);
+
+
+html, body{
+  height: 100%;
+  width: 100%;
+  /* min-width: 100vh; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  color: #110E30;
+  font-family: 'Lora', serif;
+}
+
+h2 {
+  text-align: center;
+}
