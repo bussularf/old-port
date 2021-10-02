@@ -7,36 +7,37 @@
 }
 
 .header_area .main-menu .navbar {
-    background-color: #E69AB4;
+    background: linear-gradient(90deg, #DBE2E9 0%, #fd63a3 100%);
 }
 
 
 .dropdown-menu {
-  background-color: #E69AB4;
+  background-color: #E9BCD2;
 }
 
 .dropdown-item {
-  color:#A37079;
+  color:#110E30;
 }
 
 .code {
-  color: white;
-  font-size: 2rem;
+  color: #110E30;
+  font-size: 2.2rem;
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    padding: 1rem;
+  color: #110E30;
+  padding: 1rem;
 }
 
 .header_area .main-menu .navbar-nav .active a{
-    background: linear-gradient(90deg, #DCA6C2 0%, #EE007A 100%);
-    -webkit-background-clip: text;
+  background: linear-gradient(90deg, #110E30 0%, #1f1b52 100%);
+  -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
 
 .header_area .main-menu .navbar-nav a:hover{
-    background: linear-gradient(90deg, #DCA6C2 0%, #EE007A 100%);
+  background: linear-gradient(90deg, #110E30 0%, #1f1b52 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
