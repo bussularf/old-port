@@ -23,7 +23,7 @@
   position: absolute;
   top: -2px; left: -2px;
   bottom: -2px;  right: -2px;
-  background: linear-gradient(90deg, #DCA6C2 0%, #E69AB4 100%);
+  background: linear-gradient(90deg, #DCA6C2 0%, ##000000 100%);
   content: ' ';
   z-index: -1;
   border-radius: 4px;
