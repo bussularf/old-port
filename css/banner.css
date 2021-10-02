@@ -13,3 +13,9 @@
 text-align: center;
 
 }
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
