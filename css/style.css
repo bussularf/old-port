@@ -24,3 +24,28 @@ html, body{
 h2 {
   text-align: center;
 }
+
+.fa-heart {
+  background: linear-gradient(90deg, #b6c3ee 0%, #f077c2 100%);
+  font-size: 1.2rem;
+}
+
+.fa-laptop-code {
+  background: linear-gradient(90deg, #b6c3ee 0%, #f077c2 100%);
+  font-size: 1.2rem;
+}
+
+.fa-globe-americas {
+  background: linear-gradient(90deg, #b6c3ee 0%, #f077c2 100%);
+  font-size: 1.2rem;
+}
+
+.fa-code-branch{
+  background: linear-gradient(90deg, #b6c3ee 0%, #f077c2 100%);
+  font-size: 1.2rem;
+}
+
+.fa-volume-up{
+  background: linear-gradient(90deg, #b6c3ee 0%, #f077c2 100%);
+  font-size: 1.2rem;
+}

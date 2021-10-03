@@ -1,9 +1,9 @@
 .contact-area {
-  background: #f3d6d75b;
+  background: #FBF0F1;
 }
 .contact {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 @media(max-width: 960px) {

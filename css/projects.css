@@ -19,9 +19,16 @@
 
 .card {
   margin: 0 auto;
+  box-shadow: 0px 1px 1px rgba(57, 56, 61, 0.205);
 }
 
 .bg-project{
-  background-color: #EE007A;
-  color: white;
+  background: linear-gradient(90deg, #c6d0ee 0%, #f3acd8 100%);
+  color: #110E30;
+}
+
+.card-body{
+  background-color: #FBF0F1;
+  height: 30rem;
+
 }

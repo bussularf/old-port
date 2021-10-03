@@ -16,26 +16,26 @@
 .button.primary-button:hover{
   background: whitesmoke;
   background-clip: padding-box;
-  color: black;
+  color: #110E30;
 }
 
 .button.primary-button::after {
   position: absolute;
   top: -2px; left: -2px;
   bottom: -2px;  right: -2px;
-  background: linear-gradient(90deg, #DCA6C2 0%, #EE007A 100%);
+  background: linear-gradient(90deg, #b6c3ee 0%, #f077c2 100%);
   content: ' ';
   z-index: -1;
   border-radius: 4px;
 }
 
 .button-pj {
-  padding: .5rem 1rem;
+  padding: .3rem 1rem;
   position: relative;
   border: 2px solid transparent;
-  border-radius: 4px;
+  border-radius: 5px;
   box-shadow: 0px 10px 30px rgba(125, 125, 128, 0.205);
-  background: linear-gradient(90deg, #DCA6C2 0%, #EE007A 100%);
+  background: #E69AB4;
   background-clip: padding-box;
   color: whitesmoke;
 }
@@ -43,7 +43,7 @@
 .button-pj:hover{
   background: whitesmoke;
   background-clip: padding-box;
-  background: linear-gradient(90deg, #DCA6C2 0%, #EE007A 100%);
+  background: linear-gradient(90deg, #b6c3ee 0%, #f3acd8 100%);
   transform: scale(1.05);
 }
 
