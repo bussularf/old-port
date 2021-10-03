@@ -43,7 +43,7 @@
 .button-pj:hover{
   background: whitesmoke;
   background-clip: padding-box;
-  background: linear-gradient(90deg, #b6c3ee 0%, #f3acd8 100%);
+  background: white;
   transform: scale(1.05);
 }
 
