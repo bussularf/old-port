@@ -12,7 +12,7 @@
 
 
 .dropdown-menu {
-  background-color: #E9BCD2;
+  background: linear-gradient(45deg, #d0d0db, #e1c9e6,#E0B6CC, #e096b5);
 }
 
 .dropdown-item {

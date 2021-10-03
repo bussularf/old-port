@@ -1,0 +1,15 @@
+.modal-header{
+    background: linear-gradient(45deg, #d3d3e2, #e3d1e7,#e9cedc, #e096b5);
+    color: #110E30;
+
+}
+
+.modal-footer{
+    background: linear-gradient(45deg, #d3d3e2, #e3d1e7,#e9cedc, #e096b5);
+
+}
+
+.btn-secondary {
+    background: linear-gradient(45deg, #cfbfd3, #c0aebe,#97848e, #927983);
+    color: #110E30;
+}

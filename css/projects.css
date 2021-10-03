@@ -31,10 +31,11 @@
 .card-body{
   background-color: #FBF0F1;
   height: 30rem;
+  box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
 
 }
 
 .card-title {
-  background: linear-gradient(90deg, #c6d0ee 0%, #f3acd8 100%);
+  background: linear-gradient(45deg, #dadae6, #e9ddec,#e7ccda, #ecb6cc);
   border-radius: 5px;
 }
