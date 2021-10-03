@@ -43,7 +43,6 @@
 .button-pj:hover{
   background: whitesmoke;
   background-clip: padding-box;
-  background: white;
   transform: scale(1.05);
 }
 

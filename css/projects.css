@@ -20,6 +20,7 @@
 .card {
   margin: 0 auto;
   box-shadow: 0px 1px 1px rgba(57, 56, 61, 0.205);
+  border-radius: 10px;
 }
 
 .bg-project{
@@ -31,4 +32,9 @@
   background-color: #FBF0F1;
   height: 30rem;
 
+}
+
+.card-title {
+  background: linear-gradient(90deg, #c6d0ee 0%, #f3acd8 100%);
+  border-radius: 5px;
 }
