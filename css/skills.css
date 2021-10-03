@@ -15,17 +15,30 @@
 
 .card-area{
   padding: 1rem;
-  background: whitesmoke;
+  background: linear-gradient(45deg, #CACAD7, #E0B6CC, #E096AE, #f197b8);
   color: #110E30;
   margin: 5px;
   text-align: center;
   transform: 0.5s;
   border-radius: 50px;
   box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+  animation: colors 5s ease infinite;
+}
+
+@keyframes colors {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
 .card-area:hover{
-  background: #f6f1f1;
+  background: rgb(241, 223, 237);
   box-shadow:1px 2px 2px #F078C2; 
   transform: scale(1.05);
   transition-duration: 0.7s;
